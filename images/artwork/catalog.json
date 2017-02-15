@@ -1,0 +1,107 @@
+{
+    "paintings":
+    [
+        {
+            "title":"The Road",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"road_thumb.jpg",
+            "full":"road.jpg"
+        },
+        {
+            "title":"Yard",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"yard_thumb.jpg",
+            "full":"yard.jpg"
+        },
+        {
+            "title":"Guardians",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"gaurdians_thumb.jpg",
+            "full":"gatekeepers.jpg"
+        },
+        {
+            "title":"Lights",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"lights_thumb.jpg",
+            "full":"lights.jpg"
+        },
+        {
+            "title":"Block & Tackle",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"bt_thumb.jpg",
+            "full":"BT.jpg"
+        },
+        {
+            "title":"The Hill",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"hill_thumb.jpg",
+            "full":"hill.jpg"
+        },
+        {
+            "title":"Electric 1",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"e1_thumb.jpg",
+            "full":"electric_1.jpg"
+        },
+        {
+            "title":"Electric 2",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"e2_thumb.jpg",
+            "full":"electric_2.jpg"
+        },
+        {
+            "title":"Electric 3",
+            "medium":"Oil, Canvas on Board",
+            "thumb":"e3_thumb.jpg",
+            "full":"electric_3.jpg"
+        }
+    ],
+    "prints":
+    [
+        {
+            "title":"Vent",
+            "medium":"Woodcut",
+            "thumb":"vent_thumb.jpg",
+            "full":"vent.jpg"
+        },
+        {
+            "title":"Melting",
+            "medium":"Woodcut",
+            "thumb":"melting_thumb.jpg",
+            "full":"melting.jpg"
+        },
+        {
+            "title":"Nut 1",
+            "medium":"Intaglio",
+            "thumb":"nut1_thumb.jpg",
+            "full":"nut1.jpg"
+        },
+        {
+            "title":"Nut 2",
+            "medium":"Intaglio",
+            "thumb":"nut2_thumb.jpg",
+            "full":"nut2.jpg"
+        }
+    ],
+    "sketches":
+    [
+        {
+            "title":"Guardians Sketch",
+            "medium":"Graphite",
+            "thumb":"gatekeepers_sketch_thumb.jpg",
+            "full":"gatekeepers_sketch.jpg"
+        },
+        {
+            "title":"Nut 1 Sketch",
+            "medium":"Graphite",
+            "thumb":"nut1_sketch_thumb.jpg",
+            "full":"nut1_sketch.jpg"
+        },
+        {
+            "title":"Nut 2 Sketch",
+            "medium":"Graphite",
+            "thumb":"nut2_sketch_thumb.jpg",
+            "full":"nut2_sketch.jpg"
+        }
+    ]
+}
